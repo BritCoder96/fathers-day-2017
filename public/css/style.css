@@ -1,0 +1,22 @@
+
+body{
+    background-image: url("http://images.all-free-download.com/images/graphiclarge/soccer_field_311115.jpg");
+    font-size: 1.5em;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+h1, h2 {
+	color:  #FFFFFF;
+	font-family: 'Itim', cursive;	
+}
+
+.soccer-heart {
+	position: absolute;
+	 top: 50%;
+	  left: 50%;
+	  transform: translate(-50%, -50%);
+	  width: 2em;
+	  height: 2em;
+}
